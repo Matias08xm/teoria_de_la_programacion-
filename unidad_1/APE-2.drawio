@@ -1,0 +1,67 @@
+<mxfile host="Electron">
+  <diagram name="Página-1" id="EclfDvt8HNI___ttTqKA">
+    <mxGraphModel dx="2068" dy="928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_F-NjId2rxZg5AieQlE7-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Inicio&amp;nbsp;" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="129.5" y="90" as="sourcePoint" />
+            <mxPoint x="129.5" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-4" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;align=center;size=47.5;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Leer can_doc, tam_doc&lt;/span&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_MB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Leer can_ima, tam_ima&lt;/span&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_MB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Leer can_vid, tam_vid&lt;/span&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_MB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Leer can_pro, tam_pro&lt;/span&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_MB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Leer cap_disc_GB&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-decoration-line: inherit; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="267.5" x="-3.75" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-6" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="129.5" y="380" as="sourcePoint" />
+            <mxPoint x="129.5" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="esp_doc= can_doc * tam_doc_MB&lt;br&gt;esp_ima= can_ima * tam_ima_MB&amp;nbsp;&lt;div&gt;esp_vid= can_vid&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;* tam_vid&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_MB&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;esp_pro= can_pro&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;* tam_pro&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;_MB&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="240" x="10" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="129.5" y="520" as="sourcePoint" />
+            <mxPoint x="129.5" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="esp_total= esp_doc + esp_ima + esp_vid + esp_pro&lt;div&gt;GB_usados= esp_total / GB&lt;/div&gt;&lt;div&gt;porcentaje= (GB_usados / cap_disc_GB) * 100&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="370" x="-55" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="129.5" y="670" as="sourcePoint" />
+            <mxPoint x="129.5" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="129.5" y="800" as="sourcePoint" />
+            <mxPoint x="129.5" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_F-NjId2rxZg5AieQlE7-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;" value="Fin" vertex="1">
+          <mxGeometry height="40" width="120" x="70" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="QRowObqd0gg6p8y5VcWo-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=center;" value="&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;esp_total = 0,0&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;GB_usados=&lt;/span&gt;&lt;span style=&quot;text-align: left; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;0,0&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;porcentaje= 0,0&lt;/span&gt;&lt;span style=&quot;text-align: left;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;text-align: left;&quot;&gt;GB= 1024&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="255" x="2.5" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="QRowObqd0gg6p8y5VcWo-2" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="129.5" y="230" as="sourcePoint" />
+            <mxPoint x="129.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QRowObqd0gg6p8y5VcWo-3" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;size=30;align=left;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-decoration-line: inherit;&quot;&gt;presentar &quot;El espacio total de los archivos es de&quot; + esp_total + &quot;MB&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-decoration-line: inherit;&quot;&gt;presentar &quot; El espacio total en GB es de&quot; + GB_usados + &quot;GB&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-decoration-line: inherit;&quot;&gt;presentar&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); text-decoration-line: inherit;&quot;&gt;&quot;El porcentaje de almacenamiento utilizado es del&quot; + porcentaje + &quot;%&quot;&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="475" x="-107.5" y="730" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
